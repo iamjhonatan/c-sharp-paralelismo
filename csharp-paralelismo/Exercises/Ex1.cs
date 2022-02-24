@@ -27,7 +27,7 @@ namespace csharp_paralelismo.Exercises
         private long Fatorial(int valor)
         {
             var resultado = 1L;
-            for (int i = valor; i >= 2; i--)
+            for (var i = valor; i >= 2; i--)
                 resultado *= i;
             return resultado;
         }
