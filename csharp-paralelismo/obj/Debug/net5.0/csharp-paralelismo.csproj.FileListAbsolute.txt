@@ -1,0 +1,16 @@
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.exe
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.deps.json
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.runtimeconfig.json
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.runtimeconfig.dev.json
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.dll
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\ref\csharp-paralelismo.dll
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\bin\Debug\net5.0\csharp-paralelismo.pdb
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.csproj.AssemblyReference.cache
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.dll
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\ref\csharp-paralelismo.dll
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.pdb
+C:\Users\jhona\OneDrive\Documentos\projetos\csharp-paralelismo\csharp-paralelismo\csharp-paralelismo\obj\Debug\net5.0\csharp-paralelismo.genruntimeconfig.cache

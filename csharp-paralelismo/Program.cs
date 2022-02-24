@@ -1,4 +1,5 @@
 ﻿using System;
+using csharp_paralelismo.Exercises;
 
 namespace csharp_paralelismo
 {
@@ -6,7 +7,11 @@ namespace csharp_paralelismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Primeiro exemplo:
+            var firstExercise = new Ex1();
+            Console.WriteLine(firstExercise.FatorialEmParalelo(5));
+            
+            Console.WriteLine("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=");
         }
     }
 }
