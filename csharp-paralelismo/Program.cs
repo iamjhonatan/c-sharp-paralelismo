@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using System.Threading.Tasks;
 using csharp_paralelismo.Exercises;
 
 namespace csharp_paralelismo
@@ -47,6 +48,19 @@ namespace csharp_paralelismo
               A propriedade 'IsAlive' retorna true apenas enquanto estiver em execução.
               Como não foi iniciada, seu valor default false será retornado.
               */
+             
+             
+             // Quarto exemplo:
+             for(var i = 0; i < 100; i++) {
+                 var msg = "Thread número " + i;
+                 var thread1 = new Thread(() => Console.WriteLine(msg));
+                 thread1.Start();
+             }
+             
+             for(var i = 0; i < 100; i++) {
+                 var msg = "Task número " + i;
+                 Task.Factory.StartNew(() => Console.WriteLine(msg));
+             }
         }
     }
 }
