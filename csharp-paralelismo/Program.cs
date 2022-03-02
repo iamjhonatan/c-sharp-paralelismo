@@ -61,6 +61,15 @@ namespace csharp_paralelismo
                  var msg = "Task número " + i;
                  Task.Factory.StartNew(() => Console.WriteLine(msg));
              }
+             
+             // Quinto exemplo
+             async Task<double> CalculaRaiz(double num)
+             {
+                 return await Task.Run(() => Math.Sqrt(num));
+             }
+
+             var a = CalculaRaiz(100);
+             Console.WriteLine(a);
         }
     }
 }
