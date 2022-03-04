@@ -49,7 +49,6 @@ namespace csharp_paralelismo
               Como não foi iniciada, seu valor default false será retornado.
               */
              
-             
              // Quarto exemplo:
              for(var i = 0; i < 100; i++) {
                  var msg = "Thread número " + i;
